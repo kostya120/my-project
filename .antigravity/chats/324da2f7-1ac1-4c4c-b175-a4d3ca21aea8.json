@@ -1,0 +1,21 @@
+{
+  "sessionId": "324da2f7-1ac1-4c4c-b175-a4d3ca21aea8",
+  "name": "Explain how this project works",
+  "createdAt": "2026-10-04T19:58:32.302Z",
+  "filename": "324da2f7-1ac1-4c4c-b175-a4d3ca21aea8.json",
+  "geminiStarted": false,
+  "messages": [
+    {
+      "id": "00088405-e7a2-49d4-9d5c-91f3908e5760",
+      "role": "user",
+      "content": "Explain how this project works",
+      "status": "pending",
+      "model": "gemini-3.8-flash-high",
+      "client_type": "gemini-bridge",
+      "parent_message_id": null,
+      "created_at": "2026-10-04T19:58:33.293Z",
+      "sender": "ios",
+      "is_cancelled": false
+    }
+  ]
+}
